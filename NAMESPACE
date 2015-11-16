@@ -2,3 +2,4 @@
 
 export(addPackage)
 export(initialize_repo)
+export(update_repo)
